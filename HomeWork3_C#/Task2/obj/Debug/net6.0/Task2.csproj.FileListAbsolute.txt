@@ -1,0 +1,15 @@
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\bin\Debug\net6.0\Task2.exe
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\bin\Debug\net6.0\Task2.deps.json
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\bin\Debug\net6.0\Task2.dll
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\bin\Debug\net6.0\Task2.pdb
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\obj\Debug\net6.0\Task2.dll
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\obj\Debug\net6.0\refint\Task2.dll
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\obj\Debug\net6.0\Task2.pdb
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+G:\DIGITAL MASTER\HomeWork\HomeWork3C#\Task2\obj\Debug\net6.0\ref\Task2.dll
